@@ -9,7 +9,6 @@ A fun and simple Ping Pong (Paddle) game made using **HTML**, **CSS**, and **Jav
 
 ## 📸 Screenshots
 
-*(Add a screenshot of your game here)*  
 ![Ping Pong Screenshot](./image.png)
 
 ## 🚀 Features
@@ -44,16 +43,6 @@ ping-pong-game/
 cd ping-pong-game
 open index.html
 
-📦 Deployment
-You can deploy it easily using GitHub Pages:
-
-Go to your repo settings.
-
-Scroll down to GitHub Pages.
-
-Select branch: main and root: /.
-
-Save and access your live game!
 
 💡 Future Improvements
 Add difficulty levels
