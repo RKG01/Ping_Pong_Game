@@ -5,7 +5,7 @@ A fun and simple Ping Pong (Paddle) game made using **HTML**, **CSS**, and **Jav
 ## 🎮 Demo
 
 > [Click here to play the game](#)  
-> *(Add your GitHub Pages or live demo link here)*
+> *(https://rkg01.github.io/Ping_Pong_Game/)*
 
 ## 📸 Screenshots
 
